@@ -4,7 +4,7 @@ Theme URI: http://christmaspress.com/
 Author: Monica Mays
 Author URI: http://christmaswebmaster.com/
 Description: The ChristmasPress theme is a simple, yet snazzy pink and purple responsive theme created especially for a modern Christmas celebration. This free theme comes packed with extras including a Christmas countdown!
-Version: 2.0
+Version: 2.2
 License: GNU General Public License
 License URI: license.txt
 Tags: seasonal, holiday, light, white, one-column, two-columns, left-sidebar, right-sidebar, custom-menu, featured-images, microformats, post-formats, rtl-language-support, threaded-comments, translation-ready
@@ -608,14 +608,14 @@ body.archive .page-title {
 .entry-content thead th,
 .comment-content tr th,
 .comment-content thead th {
-    border-left: 1px solid #d9d9d9;
+    border-left: 0px solid #d9d9d9;
     font-weight: bold;
     padding: 0.5em  1.25em;
 }
 .entry-content tr td,
 .comment-content tr td {
     border: 0px solid #d9d9d9;
-    border-width: 1px 0 0 1px;
+    border-width: 0px 0 0 0px;
     padding: 0.5em  1.25em;
 }
 .entry-content tr.odd td,
